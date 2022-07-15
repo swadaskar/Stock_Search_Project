@@ -8,6 +8,10 @@ backend/node_modules
 backend/.pnp
 backend/.pnp.js
 
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+
 # testing
 /coverage
 
