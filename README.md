@@ -7,9 +7,10 @@ https://github.com/swadaskar/Stock_Search_Project.git
 
 # Home
 ![home](https://github.com/swadaskar/Stock_Search_Project.git/blob/main/screenshots/home.png?raw=true)
+![plot](./screenshots/home.png)
 
 # Watchlist
-![watchlist](https://github.com/swadaskar/Stock_Search_Project.git/blob/main/screenshots/watchlist.png?raw=true)
+![watchlist](https://github.com/swadaskar/Stock_Search_Project.git/blob/main/screenshots/watchlist.jpg?raw=true)
 
 # Portfolio
-![portfolio](https://github.com/swadaskar/Stock_Search_Project.git/blob/main/screenshots/portfolio.png?raw=true)
+![portfolio](https://github.com/swadaskar/Stock_Search_Project.git/blob/main/screenshots/portfolio.jpg?raw=true)
