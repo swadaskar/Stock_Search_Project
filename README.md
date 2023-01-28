@@ -7,7 +7,7 @@
 ![home](./screenshots/home.png)
 
 # Watchlist
-![watchlist](./screenshots/watchlist.jpg)
+![watchlist](./screenshots/watchlist.JPG)
 
 # Portfolio
-![portfolio](./screenshots/portfolio.jpg)
+![portfolio](./screenshots/portfolio.JPG)
