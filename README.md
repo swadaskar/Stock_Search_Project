@@ -3,11 +3,11 @@
 •	Implemented frontend features such as watch listing a stock, buying and selling stocks using React to improve user experience and backend was coded in NodeJS.
 
 
-# Home
+# Home Page
 ![home](./screenshots/home.png)
 
-# Watchlist
+# Watchlist Page
 ![watchlist](./screenshots/watchlist.JPG)
 
-# Portfolio
+# Portfolio Page
 ![portfolio](./screenshots/portfolio.JPG)
