@@ -7,10 +7,10 @@
 ![home](./screenshots/home.png)
 
 # Stock Details
-![stock details](./screenshots/Stock Details.jpg)
+![stockDetails](./screenshots/Stock%20Details.JPG)
 
 # Timeline of Stock
-![highcharts](./screenshots/highcharts.jpg)
+![highcharts](./screenshots/highcharts.JPG)
 
 # Watchlist Page
 ![watchlist](./screenshots/watchlist.JPG)
