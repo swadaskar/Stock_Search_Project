@@ -6,6 +6,12 @@
 # Home Page
 ![home](./screenshots/home.png)
 
+# Stock Details
+![stock details](./screenshots/Stock Details.jpg)
+
+# Timeline of Stock
+![highcharts](./screenshots/highcharts.jpg)
+
 # Watchlist Page
 ![watchlist](./screenshots/watchlist.JPG)
 
